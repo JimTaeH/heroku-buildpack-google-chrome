@@ -89,6 +89,8 @@ case "${STACK}" in
       libxtst6
       fonts-liberation
       fonts-thai-tlwg
+      fonts-tlwg-loma
+      fonts-tlwg-loma-otf
     "
     ;;
   *)
